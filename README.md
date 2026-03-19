@@ -1,2 +1,9 @@
-# ml-journey7
-A structured learning repository. Every week I build something  real, document what broke, and push it here.
+# ML Journey
+
+Building AI/ML skills in public. Projects coming soon
+
+## Month 1 targets:-
+ Python fundamentals + NumPy
+ Pandas + EDA pipeline Statistics + Linear Algebra
+ Calculus for ML + Deployed project
+
